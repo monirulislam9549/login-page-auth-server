@@ -1,0 +1,48 @@
+[
+    {
+        "services": [
+            {
+                "id": 1,
+                "name": "Web Development",
+                "description": "Work Experience based learning approach  to master in demand developer skills",
+                "price": 1000,
+                "duration": "2 weeks"
+            },
+            {
+                "id": 2,
+                "name": "Graphic Designer",
+                "description": "Work Experience based learning approach  to master in demand developer skills",
+                "price": 3000,
+                "duration": "9 weeks"
+            },
+            {
+                "id": 3,
+                "name": "Data Entry",
+                "description": "Work Experience based learning approach  to master in demand developer skills",
+                "price": 5000,
+                "duration": "1 weeks"
+            },
+            {
+                "id": 4,
+                "name": "Software Engineer",
+                "description": "Work Experience based learning approach  to master in demand developer skills",
+                "price": 4000,
+                "duration": "6 weeks"
+            },
+            {
+                "id": 5,
+                "name": "Cloud Engineer",
+                "description": "Work Experience based learning approach  to master in demand developer skills",
+                "price": 3000,
+                "duration": "3 weeks"
+            },
+            {
+                "id": 6,
+                "name": "Ml Learning",
+                "description": "Work Experience based learning approach  to master in demand developer skills",
+                "price": 2000,
+                "duration": "5 weeks"
+            }
+        ]
+    }
+]
